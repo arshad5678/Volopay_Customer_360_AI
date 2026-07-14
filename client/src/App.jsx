@@ -19,7 +19,7 @@ import EmailHistory from './components/EmailHistory';
 import SlackNotes from './components/SlackNotes';
 import ProductUsage from './components/ProductUsage';
 import AiInsights from './components/AiInsights';
-import { getCustomers, getCustomerById, analyzeCustomer } from './services/api';
+import { getCustomers, getCustomerById, analyzeCustomer, API_BASE_URL } from './services/api';
 
 export default function App() {
   const [customers, setCustomers] = useState([]);
@@ -73,7 +73,7 @@ export default function App() {
       }
     } catch (error) {
       console.error('Failed to load customers list:', error);
-      setListError("Failed to fetch customer directory.");
+      setListError(`Failed to fetch from API: ${API_BASE_URL}. If the backend is starting up, it may take 30-50s to wake up. Please retry.`);
     } finally {
       setIsListLoading(false);
     }
