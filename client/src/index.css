@@ -1,0 +1,108 @@
+@import "tailwindcss";
+
+@variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --color-brand-50: #f5f3ff;
+  --color-brand-100: #ede9fe;
+  --color-brand-200: #ddd6fe;
+  --color-brand-300: #c084fc;
+  --color-brand-400: #a855f7;
+  --color-brand-500: #8b5cf6;
+  --color-brand-600: #7c3aed;
+  --color-brand-700: #6d28d9;
+  --color-brand-800: #5b21b6;
+  --color-brand-900: #4c1d95;
+
+  --color-darkBg-50: #fafafa;
+  --color-darkBg-100: #f4f4f5;
+  --color-darkBg-200: #e4e4e7;
+  --color-darkBg-300: #d4d4d8;
+  --color-darkBg-400: #a1a1aa;
+  --color-darkBg-500: #71717a;
+  --color-darkBg-600: #52525b;
+  --color-darkBg-750: #27272a;
+  --color-darkBg-800: #18181b;
+  --color-darkBg-850: #121214;
+  --color-darkBg-900: #09090b;
+  --color-darkBg-950: #020203;
+
+  --font-sans: 'Inter', sans-serif;
+}
+
+@layer base {
+  body {
+    @apply transition-colors duration-250 antialiased text-zinc-900 bg-zinc-50 dark:text-zinc-100 dark:bg-darkBg-900;
+  }
+}
+
+/* Custom Webkit scrollbar for sleek list look (Notion-like) */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply rounded-full bg-zinc-300 dark:bg-zinc-700 hover:bg-zinc-400 dark:hover:bg-zinc-600;
+}
+
+/* Clean solid layouts for internal enterprise dashboard */
+.glass-panel {
+  @apply bg-white dark:bg-darkBg-800 border border-zinc-200 dark:border-darkBg-750;
+}
+
+.glass-card {
+  @apply bg-white dark:bg-darkBg-800 border border-zinc-200 dark:border-darkBg-750 shadow-sm rounded-xl overflow-hidden transition-colors duration-150;
+}
+
+.glass-card-hover {
+  @apply hover:border-zinc-300 dark:hover:border-darkBg-600;
+}
+
+/* Static clean health indicator (No motion) */
+.health-ring {
+  stroke-dasharray: 283;
+  stroke-dashoffset: 0;
+}
+
+/* Simple status indicator without excessive pulsing */
+.pulse-indicator {
+  @apply relative flex h-2 w-2;
+}
+
+.pulse-indicator-dot {
+  @apply absolute inline-flex h-full w-full rounded-full opacity-40 bg-current;
+}
+
+.pulse-indicator-core {
+  @apply relative inline-flex rounded-full h-2 w-2;
+}
+
+@keyframes shimmer {
+  100% {
+    transform: translateX(100%);
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(4px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fadeIn {
+  animation: fadeIn 0.4s ease-out forwards;
+}
+
+.animate-spin-slow {
+  animation: spin 8s linear infinite;
+}

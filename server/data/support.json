@@ -1,0 +1,138 @@
+[
+  {
+    "ticketId": "TCK-101",
+    "customerId": "cust-001",
+    "issue": "API integrations failing with 504 gateway timeout during bulk syncs.",
+    "priority": "High",
+    "status": "In_Progress",
+    "createdDate": "2026-07-10T08:30:00Z"
+  },
+  {
+    "ticketId": "TCK-102",
+    "customerId": "cust-001",
+    "issue": "Invoice billing detail correction request for June 2026.",
+    "priority": "Medium",
+    "status": "Resolved",
+    "createdDate": "2026-06-30T10:15:00Z"
+  },
+  {
+    "ticketId": "TCK-103",
+    "customerId": "cust-002",
+    "issue": "Unable to export custom PDF reports on security compliance audit dashboard.",
+    "priority": "Medium",
+    "status": "Open",
+    "createdDate": "2026-07-13T14:20:00Z"
+  },
+  {
+    "ticketId": "TCK-104",
+    "customerId": "cust-003",
+    "issue": "SSO Login configuration error with Okta integration.",
+    "priority": "Critical",
+    "status": "In_Progress",
+    "createdDate": "2026-07-14T09:00:00Z"
+  },
+  {
+    "ticketId": "TCK-105",
+    "customerId": "cust-004",
+    "issue": "Requesting information about SOC2 compliance reporting certificates.",
+    "priority": "Low",
+    "status": "Resolved",
+    "createdDate": "2026-07-01T11:45:00Z"
+  },
+  {
+    "ticketId": "TCK-106",
+    "customerId": "cust-005",
+    "issue": "Bulk seat assignment uploads are failing with formatting errors.",
+    "priority": "Medium",
+    "status": "Open",
+    "createdDate": "2026-07-12T16:50:00Z"
+  },
+  {
+    "ticketId": "TCK-107",
+    "customerId": "cust-005",
+    "issue": "Production database sync latency exceeds 5 seconds.",
+    "priority": "High",
+    "status": "Resolved",
+    "createdDate": "2026-07-05T07:10:00Z"
+  },
+  {
+    "ticketId": "TCK-108",
+    "customerId": "cust-006",
+    "issue": "Reset password link not received by user invitation system.",
+    "priority": "Low",
+    "status": "Resolved",
+    "createdDate": "2026-07-08T12:00:00Z"
+  },
+  {
+    "ticketId": "TCK-109",
+    "customerId": "cust-007",
+    "issue": "Data warehouse connector throwing schema validation errors on CSV upload.",
+    "priority": "High",
+    "status": "In_Progress",
+    "createdDate": "2026-07-13T18:30:00Z"
+  },
+  {
+    "ticketId": "TCK-110",
+    "customerId": "cust-008",
+    "issue": "CRITICAL: Global webhook endpoints are intermittently returning 502 bad gateway errors.",
+    "priority": "Critical",
+    "status": "Open",
+    "createdDate": "2026-07-14T11:15:00Z"
+  },
+  {
+    "ticketId": "TCK-111",
+    "customerId": "cust-010",
+    "issue": "Custom domain SSL certificate renewal fails with DNS check error.",
+    "priority": "High",
+    "status": "Resolved",
+    "createdDate": "2026-07-02T09:40:00Z"
+  },
+  {
+    "ticketId": "TCK-112",
+    "customerId": "cust-011",
+    "issue": "Exporting audit log data is missing column headers for IP addresses.",
+    "priority": "Low",
+    "status": "Open",
+    "createdDate": "2026-07-14T08:00:00Z"
+  },
+  {
+    "ticketId": "TCK-113",
+    "customerId": "cust-012",
+    "issue": "New account setup: Sandbox workspace has not been provisioned yet.",
+    "priority": "High",
+    "status": "In_Progress",
+    "createdDate": "2026-07-13T09:12:00Z"
+  },
+  {
+    "ticketId": "TCK-114",
+    "customerId": "cust-015",
+    "issue": "API key rotation is failing due to permission error on dashboard panel.",
+    "priority": "High",
+    "status": "Open",
+    "createdDate": "2026-07-14T10:45:00Z"
+  },
+  {
+    "ticketId": "TCK-115",
+    "customerId": "cust-016",
+    "issue": "Requesting quote for adding 100 extra seat licenses to the plan.",
+    "priority": "Medium",
+    "status": "Resolved",
+    "createdDate": "2026-07-06T13:22:00Z"
+  },
+  {
+    "ticketId": "TCK-116",
+    "customerId": "cust-019",
+    "issue": "Data extraction API times out for queries spanning more than 90 days.",
+    "priority": "High",
+    "status": "In_Progress",
+    "createdDate": "2026-07-11T15:30:00Z"
+  },
+  {
+    "ticketId": "TCK-117",
+    "customerId": "cust-020",
+    "issue": "Unable to update billing credit card via the dashboard billing portal.",
+    "priority": "Medium",
+    "status": "Open",
+    "createdDate": "2026-07-13T11:00:00Z"
+  }
+]

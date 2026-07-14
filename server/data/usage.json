@@ -1,0 +1,242 @@
+[
+  {
+    "customerId": "cust-001",
+    "activeUsers": 128,
+    "lastLogin": "2026-07-14T10:05:00Z",
+    "healthScore": 72,
+    "featureUsage": {
+      "Analytics": 88,
+      "API": 95,
+      "Reporting": 65,
+      "Integrations": 90
+    }
+  },
+  {
+    "customerId": "cust-002",
+    "activeUsers": 42,
+    "lastLogin": "2026-07-13T15:30:00Z",
+    "healthScore": 65,
+    "featureUsage": {
+      "Analytics": 60,
+      "API": 40,
+      "Reporting": 80,
+      "Integrations": 30
+    }
+  },
+  {
+    "customerId": "cust-003",
+    "activeUsers": 15,
+    "lastLogin": "2026-07-14T09:12:00Z",
+    "healthScore": 40,
+    "featureUsage": {
+      "Analytics": 25,
+      "API": 10,
+      "Reporting": 15,
+      "Integrations": 5
+    }
+  },
+  {
+    "customerId": "cust-004",
+    "activeUsers": 38,
+    "lastLogin": "2026-07-14T08:45:00Z",
+    "healthScore": 92,
+    "featureUsage": {
+      "Analytics": 80,
+      "API": 50,
+      "Reporting": 85,
+      "Integrations": 75
+    }
+  },
+  {
+    "customerId": "cust-005",
+    "activeUsers": 754,
+    "lastLogin": "2026-07-14T11:40:00Z",
+    "healthScore": 88,
+    "featureUsage": {
+      "Analytics": 90,
+      "API": 95,
+      "Reporting": 85,
+      "Integrations": 80
+    }
+  },
+  {
+    "customerId": "cust-006",
+    "activeUsers": 8,
+    "lastLogin": "2026-07-10T14:15:00Z",
+    "healthScore": 32,
+    "featureUsage": {
+      "Analytics": 15,
+      "API": 0,
+      "Reporting": 20,
+      "Integrations": 10
+    }
+  },
+  {
+    "customerId": "cust-007",
+    "activeUsers": 29,
+    "lastLogin": "2026-07-14T09:00:00Z",
+    "healthScore": 75,
+    "featureUsage": {
+      "Analytics": 70,
+      "API": 65,
+      "Reporting": 50,
+      "Integrations": 60
+    }
+  },
+  {
+    "customerId": "cust-008",
+    "activeUsers": 210,
+    "lastLogin": "2026-07-14T11:50:00Z",
+    "healthScore": 25,
+    "featureUsage": {
+      "Analytics": 95,
+      "API": 98,
+      "Reporting": 90,
+      "Integrations": 92
+    }
+  },
+  {
+    "customerId": "cust-009",
+    "activeUsers": 3,
+    "lastLogin": "2026-07-13T11:22:00Z",
+    "healthScore": 95,
+    "featureUsage": {
+      "Analytics": 10,
+      "API": 5,
+      "Reporting": 0,
+      "Integrations": 0
+    }
+  },
+  {
+    "customerId": "cust-010",
+    "activeUsers": 845,
+    "lastLogin": "2026-07-14T11:30:00Z",
+    "healthScore": 98,
+    "featureUsage": {
+      "Analytics": 99,
+      "API": 85,
+      "Reporting": 96,
+      "Integrations": 90
+    }
+  },
+  {
+    "customerId": "cust-011",
+    "activeUsers": 512,
+    "lastLogin": "2026-07-14T11:25:00Z",
+    "healthScore": 90,
+    "featureUsage": {
+      "Analytics": 85,
+      "API": 94,
+      "Reporting": 78,
+      "Integrations": 88
+    }
+  },
+  {
+    "customerId": "cust-012",
+    "activeUsers": 2,
+    "lastLogin": "2026-07-13T10:00:00Z",
+    "healthScore": 55,
+    "featureUsage": {
+      "Analytics": 5,
+      "API": 0,
+      "Reporting": 0,
+      "Integrations": 0
+    }
+  },
+  {
+    "customerId": "cust-013",
+    "activeUsers": 5,
+    "lastLogin": "2026-07-11T16:00:00Z",
+    "healthScore": 42,
+    "featureUsage": {
+      "Analytics": 30,
+      "API": 10,
+      "Reporting": 20,
+      "Integrations": 15
+    }
+  },
+  {
+    "customerId": "cust-014",
+    "activeUsers": 32,
+    "lastLogin": "2026-07-14T10:30:00Z",
+    "healthScore": 80,
+    "featureUsage": {
+      "Analytics": 68,
+      "API": 45,
+      "Reporting": 72,
+      "Integrations": 55
+    }
+  },
+  {
+    "customerId": "cust-015",
+    "activeUsers": 95,
+    "lastLogin": "2026-07-14T11:05:00Z",
+    "healthScore": 48,
+    "featureUsage": {
+      "Analytics": 82,
+      "API": 90,
+      "Reporting": 75,
+      "Integrations": 80
+    }
+  },
+  {
+    "customerId": "cust-016",
+    "activeUsers": 340,
+    "lastLogin": "2026-07-14T11:15:00Z",
+    "healthScore": 94,
+    "featureUsage": {
+      "Analytics": 85,
+      "API": 70,
+      "Reporting": 92,
+      "Integrations": 76
+    }
+  },
+  {
+    "customerId": "cust-017",
+    "activeUsers": 4,
+    "lastLogin": "2026-07-12T13:45:00Z",
+    "healthScore": 58,
+    "featureUsage": {
+      "Analytics": 40,
+      "API": 60,
+      "Reporting": 25,
+      "Integrations": 20
+    }
+  },
+  {
+    "customerId": "cust-018",
+    "activeUsers": 55,
+    "lastLogin": "2026-07-14T09:45:00Z",
+    "healthScore": 89,
+    "featureUsage": {
+      "Analytics": 75,
+      "API": 55,
+      "Reporting": 80,
+      "Integrations": 65
+    }
+  },
+  {
+    "customerId": "cust-019",
+    "activeUsers": 180,
+    "lastLogin": "2026-07-14T11:45:00Z",
+    "healthScore": 70,
+    "featureUsage": {
+      "Analytics": 90,
+      "API": 82,
+      "Reporting": 88,
+      "Integrations": 85
+    }
+  },
+  {
+    "customerId": "cust-020",
+    "activeUsers": 68,
+    "lastLogin": "2026-07-14T11:10:00Z",
+    "healthScore": 77,
+    "featureUsage": {
+      "Analytics": 80,
+      "API": 70,
+      "Reporting": 85,
+      "Integrations": 60
+    }
+  }
+]

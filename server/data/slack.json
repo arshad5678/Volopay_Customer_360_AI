@@ -1,0 +1,122 @@
+[
+  {
+    "customerId": "cust-001",
+    "internalNotes": "Acme is a healthy account overall, but their integration developers frequently encounter gateway timeouts. Tech lead mentions they are pushing the API limits.",
+    "salesUpdates": "Contract renewal is coming up in October. They have expressed interest in adding the Advanced AI Analytics add-on (+$2k/month).",
+    "customerFeedback": "Loves the performance improvements, but complains about timeout errors during peak sync hours."
+  },
+  {
+    "customerId": "cust-002",
+    "internalNotes": "Globex is feeling some friction with report exports. They have a compliance audit coming up, so this is high stakes for them.",
+    "salesUpdates": "Potential upsell to Enterprise if compliance reporting is resolved and automated.",
+    "customerFeedback": "Exporting CSV/PDF compliance lists is confusing and sometimes fails."
+  },
+  {
+    "customerId": "cust-003",
+    "internalNotes": "Initech is currently blocked by SSO issues. They had planned to go live today. Engineering is on the phone with their IT admin.",
+    "salesUpdates": "Expansion deals for Initech's European division are currently paused until SSO is stable.",
+    "customerFeedback": "SSO login failure is delaying our entire product rollout. Need this resolved ASAP."
+  },
+  {
+    "customerId": "cust-004",
+    "internalNotes": "Umbrella Corp is highly satisfied since we delivered the security documentation. Emily is keeping a close eye on their transition.",
+    "salesUpdates": "No immediate upsell opportunities, but contract is secure.",
+    "customerFeedback": "Emily Watson has been exceptionally helpful in addressing our security team's inquiries."
+  },
+  {
+    "customerId": "cust-005",
+    "internalNotes": "Hooli is scaling up seat counts rapidly. They are moving to fully automate their user onboarding via our SCIM API.",
+    "salesUpdates": "Already on Enterprise plan, but volume pricing discussions for 1,000+ seats are active.",
+    "customerFeedback": "We need better developer documentation for the user invitation endpoints."
+  },
+  {
+    "customerId": "cust-006",
+    "internalNotes": "Soylent Logistics has low usage scores. The account is at risk of churning as the driver team finds the web portal too complex.",
+    "salesUpdates": "At risk of downgrade/churn. Account manager needs to schedule a training session.",
+    "customerFeedback": "The mobile navigation is too cluttered. Drivers are reverting to paper logs."
+  },
+  {
+    "customerId": "cust-007",
+    "internalNotes": "Veerdyne is building a custom BI dashboard integration. They are running into formatting issues with CSV headers.",
+    "salesUpdates": "Evaluating high-volume API addon package ($500/month) if custom dashboard works.",
+    "customerFeedback": "CSV importer needs clearer documentation on timestamp formats."
+  },
+  {
+    "customerId": "cust-008",
+    "internalNotes": "Tyrell Corp is in a critical state. Their production pipeline is broken due to webhook failures. High churn threat if not resolved today.",
+    "salesUpdates": "Renewals are frozen until SLA is restored. Customer demands SLA credits.",
+    "customerFeedback": "Our robotic assembly lines are stalling due to webhook delays. This is causing significant financial losses."
+  },
+  {
+    "customerId": "cust-009",
+    "internalNotes": "Cyberdyne is a pending customer. Sandbox testing was highly successful, waiting on contract execution.",
+    "salesUpdates": "Negotiations are 95% complete. Final sign-off from legal pending next week.",
+    "customerFeedback": "The sandbox environment was extremely intuitive. We look forward to starting production."
+  },
+  {
+    "customerId": "cust-010",
+    "internalNotes": "Wayne Enterprises is our largest account. They love the customized reporting features and have high engagement.",
+    "salesUpdates": "Looking to lock them into a multi-year enterprise contract with custom SLA terms in Q4.",
+    "customerFeedback": "The performance of the reporting dashboard is exceptional. Major timesaver."
+  },
+  {
+    "customerId": "cust-011",
+    "internalNotes": "Stark Industries is heavily using our API. They request minor formatting fixes to audit logs.",
+    "salesUpdates": "Stable account. Stark is interested in a co-marketing case study regarding their clean energy analytics portal.",
+    "customerFeedback": "Excellent dashboard, but please add IP address headers to the security log exports."
+  },
+  {
+    "customerId": "cust-012",
+    "internalNotes": "Oscorp is in onboarding phase. Sandbox setup is delayed because their dev team hasn't responded to instructions.",
+    "salesUpdates": "Account manager is calling the project sponsor to expedite sandbox testing.",
+    "customerFeedback": "We are resource-constrained this week, will set up the dev workspace next Monday."
+  },
+  {
+    "customerId": "cust-013",
+    "internalNotes": "Dunder Mifflin is showing sign of churn. They find the Basic tier too restrictive, and MRR is low.",
+    "salesUpdates": "High churn risk. AM has offered a 15% discount on the Growth tier to help them scale.",
+    "customerFeedback": "Our team size is small, and the Basic limits are too low. We might look for cheaper alternatives."
+  },
+  {
+    "customerId": "cust-014",
+    "internalNotes": "Initrode is consulting client. Stable account, regular usage by their dashboard template managers.",
+    "salesUpdates": "Opportunity to upgrade to Enterprise if they want cross-client workspace sharing.",
+    "customerFeedback": "Can we share customized dashboard views across different client accounts?"
+  },
+  {
+    "customerId": "cust-015",
+    "internalNotes": "Aperture is highly frustrated with API key rotation errors on the developer panel. Compliance deadline is today.",
+    "salesUpdates": "Critical account. If compliance is missed, they may cancel the contract.",
+    "customerFeedback": "API key rotation is broken on our dashboard. This is blocking our security audit today."
+  },
+  {
+    "customerId": "cust-016",
+    "internalNotes": "MomCorp is a high-MRR account. Recently purchased 100 extra seat licenses, which have been successfully assigned.",
+    "salesUpdates": "Upgrade finalized (+3,500 MRR). Onboarding for the new users is complete.",
+    "customerFeedback": "The license allocation screen is very straightforward. Thanks for the quick upgrade."
+  },
+  {
+    "customerId": "cust-017",
+    "internalNotes": "Reynholm is a small account. They complain about overage fees for API limits.",
+    "salesUpdates": "AM offered a custom API package to prevent further billing overage complaints.",
+    "customerFeedback": "Why were we charged $50 for exceeding API queries? The warnings should be more prominent."
+  },
+  {
+    "customerId": "cust-018",
+    "internalNotes": "Selleck Cosmetics is highly engaged. Marketing team is very active.",
+    "salesUpdates": "Active referral champion. Selleck is willing to refer two partner brands to us.",
+    "customerFeedback": "The dashboard layout and campaign widgets are gorgeous and easy to navigate."
+  },
+  {
+    "customerId": "cust-019",
+    "internalNotes": "Massive Dynamic is running into performance bottlenecks on massive 90-day exports.",
+    "salesUpdates": "High potential for upsell to high-performance dedicated database cluster (+$5k/month).",
+    "customerFeedback": "Downloading reports spanning 90 days causes the dashboard page to crash."
+  },
+  {
+    "customerId": "cust-020",
+    "internalNotes": "Gekko & Co is facing card payment issues. Account is active but billing dashboard issues need dev support.",
+    "salesUpdates": "AM is working with finance to process wire transfers as a backup for this month.",
+    "customerFeedback": "The credit card renewal form is rejecting our corporate card repeatedly."
+  }
+]

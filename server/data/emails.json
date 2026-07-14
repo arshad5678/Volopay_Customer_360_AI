@@ -1,0 +1,149 @@
+[
+  {
+    "customerId": "cust-001",
+    "subject": "Questions regarding contract renewal & pricing sheet",
+    "summary": "Customer reached out asking for the updated pricing grid for the upcoming contract renewal in September. They want to know if there are volume discounts available.",
+    "sentiment": "Neutral",
+    "date": "2026-07-12T14:35:00Z"
+  },
+  {
+    "customerId": "cust-001",
+    "subject": "Thank you for the quick resolution on billing issue!",
+    "summary": "Customer sent a thank-you email following the resolution of the billing correction ticket. Highly satisfied with Sarah's swift support.",
+    "sentiment": "Positive",
+    "date": "2026-07-01T15:20:00Z"
+  },
+  {
+    "customerId": "cust-002",
+    "subject": "Feedback on security compliance dashboard reports",
+    "summary": "The customer expressed frustration with exporting custom compliance reports. They mentioned it is blocking their internal audit process.",
+    "sentiment": "Negative",
+    "date": "2026-07-13T16:00:00Z"
+  },
+  {
+    "customerId": "cust-003",
+    "subject": "Okta SSO integration blocker - Production rollout delayed",
+    "summary": "Urgent escalation regarding the Okta integration failure. They cannot roll out the software to 550+ employees tomorrow without a working SSO system.",
+    "sentiment": "Negative",
+    "date": "2026-07-14T09:30:00Z"
+  },
+  {
+    "customerId": "cust-004",
+    "subject": "Compliance documentation received",
+    "summary": "Acknowledged receipt of SOC2 and ISO compliance documents. They thanked Emily for getting these over quickly.",
+    "sentiment": "Positive",
+    "date": "2026-07-02T10:00:00Z"
+  },
+  {
+    "customerId": "cust-005",
+    "subject": "Platform onboarding status check",
+    "summary": "Alex Rivera requested a sync. Customer reports onboarding is progressing well, although bulk seat upload formatting instructions were slightly confusing.",
+    "sentiment": "Neutral",
+    "date": "2026-07-12T11:00:00Z"
+  },
+  {
+    "customerId": "cust-006",
+    "subject": "Disappointed with feature updates",
+    "summary": "User complains that the recent update changed the navigation menu and made it harder for their delivery drivers to check tasks on mobile devices.",
+    "sentiment": "Negative",
+    "date": "2026-07-10T09:15:00Z"
+  },
+  {
+    "customerId": "cust-007",
+    "subject": "Inquiry regarding custom data warehouse connectors",
+    "summary": "Customer is checking if we support Snowflake data ingestion natively or if they need to write a custom ETL pipeline.",
+    "sentiment": "Neutral",
+    "date": "2026-07-11T13:45:00Z"
+  },
+  {
+    "customerId": "cust-008",
+    "subject": "CRITICAL: Severe service degradation on our API endpoints",
+    "summary": "Strongly worded email from Tyrell CTO. Webhooks are throwing errors causing double-booking issues in their robotic scheduling pipeline.",
+    "sentiment": "Negative",
+    "date": "2026-07-14T11:20:00Z"
+  },
+  {
+    "customerId": "cust-009",
+    "subject": "Follow up on contract approval status",
+    "summary": "Alex River sent a follow-up. The legal team at Cyberdyne is reviewing the liability clauses, expecting signatures by early next week.",
+    "sentiment": "Neutral",
+    "date": "2026-07-13T10:10:00Z"
+  },
+  {
+    "customerId": "cust-010",
+    "subject": "Stellar performance of the reporting engine",
+    "summary": "CTO emailed to praise the speed of the updated analytics engine, noting it reduced their weekly board reporting workload by 4 hours.",
+    "sentiment": "Positive",
+    "date": "2026-07-08T16:45:00Z"
+  },
+  {
+    "customerId": "cust-011",
+    "subject": "Feature request: Column headers for exports",
+    "summary": "Polite request to include IP address headers in the audit logs. The current layout is causing their parser scripts to crash.",
+    "sentiment": "Neutral",
+    "date": "2026-07-13T17:15:00Z"
+  },
+  {
+    "customerId": "cust-012",
+    "subject": "Onboarding coordinator contact",
+    "summary": "Marcus Chen sent welcome emails and instructions for setting up the developer sandbox workspace. Awaiting response.",
+    "sentiment": "Neutral",
+    "date": "2026-07-13T09:30:00Z"
+  },
+  {
+    "customerId": "cust-013",
+    "subject": "Subscription cancellation query",
+    "summary": "The manager is asking if there are any fees associated with canceling or downgrading a Basic account before the annual term ends.",
+    "sentiment": "Negative",
+    "date": "2026-07-12T08:00:00Z"
+  },
+  {
+    "customerId": "cust-014",
+    "subject": "Consulting dashboard template query",
+    "summary": "Inquiry about whether template permissions can be shared across multiple child client accounts in the dashboard.",
+    "sentiment": "Neutral",
+    "date": "2026-07-14T10:00:00Z"
+  },
+  {
+    "customerId": "cust-015",
+    "subject": "URGENT: API key rotations blocked in panel",
+    "summary": "Security administrator reported they cannot cycle their API keys, which is a compliance requirement that must be done today.",
+    "sentiment": "Negative",
+    "date": "2026-07-14T11:00:00Z"
+  },
+  {
+    "customerId": "cust-016",
+    "subject": "License expansion contract confirmation",
+    "summary": "Confirmed they signed the addendum for 100 extra seats. Appreciative of the speed in processing the order.",
+    "sentiment": "Positive",
+    "date": "2026-07-07T11:30:00Z"
+  },
+  {
+    "customerId": "cust-017",
+    "subject": "Billing inquiry - unexpected charge",
+    "summary": "Customer wants clarification on an extra $50 usage fee on their last invoice, which was for exceeding API query limits.",
+    "sentiment": "Neutral",
+    "date": "2026-07-11T12:00:00Z"
+  },
+  {
+    "customerId": "cust-018",
+    "subject": "Love the user interface design!",
+    "summary": "Marketing director sent feedback saying the dashboard layout is the best they have seen, allowing them to track campaigns seamlessly.",
+    "sentiment": "Positive",
+    "date": "2026-07-09T14:00:00Z"
+  },
+  {
+    "customerId": "cust-019",
+    "subject": "API speed issues on large exports",
+    "summary": "Developer notes that pulling 90+ days of log data times out. They want to know if pagination is supported on that endpoint.",
+    "sentiment": "Neutral",
+    "date": "2026-07-11T16:00:00Z"
+  },
+  {
+    "customerId": "cust-020",
+    "subject": "Billing update issues",
+    "summary": "Customer success rep reached out about the recurring error when updating their corporate Mastercard details.",
+    "sentiment": "Neutral",
+    "date": "2026-07-13T11:30:00Z"
+  }
+]
